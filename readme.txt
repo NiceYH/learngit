@@ -1,2 +1,2 @@
-git study day1
-git study day1.1
+git study day2
+git study day2.1
